@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "build": "npm audit fix --force && npm install --production",
+    "postinstall": "npm audit fix --force"
   },
   "dependencies": {
     "cors": "^2.8.5",
