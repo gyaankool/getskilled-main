@@ -1,0 +1,599 @@
+{
+    "categories": [
+        {
+            "name": "fullstack_development",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOopwCHWyPy7QF-9KwSz9NiZtDII0WSZQSM_5-pT6IBUKhzwYcGB8&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/full-stack-web-development-for-beginners/?srsltid=AfmBOopxkMPp5ijvZwl9jhyCdPEm-ka2O73R2qDDW9yDE6CCZVDOa8UE&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/course/complete-full-stack-web-development-bootcamp/?srsltid=AfmBOopDn_WV0mCJyVe7h9Br3ckBK8ctZxBX9X9w613pXjDWWT8CC3X0&utm_source=chatgpt.com",
+                            "https://unacademy.com/goal/competitive-programming/LEARNCP/topic/BZOBO/courses?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.udemy.com/course/the-advanced-web-developer-bootcamp/?srsltid=AfmBOormtz_PNwnn72gCHsso7rBvRnaTJ4CDb5ejS9eHKocZr-NBMt5F&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/the-complete-web-developer-masterclass-beginner-to-advanced/?srsltid=AfmBOoqHP79-QH8cYDH0hKl6VfH44DeolE1fwJBtiWRVLlW0gWzrEoU3&utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?utm_source=chatgpt.com",
+                            "https://www.coursera.org/learn/fullstack-web-development?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/learn/packt-advanced-full-stack-development-and-swiftui-basics-y6a51?utm_source=chatgpt.com",
+                            "https://www.coursera.org/specializations/java-fullstack?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.coursera.org/learn/packt-advanced-full-stack-development-and-swiftui-basics-y6a51?utm_source=chatgpt.com",
+                            "https://www.coursera.org/professional-certificates/microsoft-full-stack-developer?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "pw_skills",
+                    "courses": {
+                        "beginner": [
+                            "https://pwskills.com/course/best-full-stack-web-development/?utm_source=chatgpt.com",
+                            "https://pwskills.com/course/full-stack-development-course-hinglish/?from=home-page&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://pwskills.com/course/full-stack-web-development-course/?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://pwskills.com/category/web-development/?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://unacademy.com/goal/programming/DOKOV/free-platform/web-development-summary/UNSGL?utm_source=chatgpt.com",
+                            "https://unacademy.com/goal/programming/DOKOV/free-platform/web-development/NNFSK?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://unacademy.com/batch/conquer-40-from-system-design-and-full-stack-fundamentals-to-career-readiness/6T8PH5TK/topics/BZOBO/courses/OESGH?utm_source=chatgpt.com",
+                            "https://unacademy.com/class/angular-basics/H9WF5YYQ?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://unacademy.com/course/course-on-backend-web-development/R5OGTXD5?utm_source=chatgpt.com",
+                            "https://unacademy.com/course/hindi-full-stack-web-development/DS2DULVV?utm_source=chatgpt.com"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "frontend_development",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/course/front-end-web-development/?srsltid=AfmBOop3gtP3f40S_yJXp-qoNF-7ykYuOJiac56MnZ6owBWKIK657cKv&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/front-end-development-for-beginners/?srsltid=AfmBOoq1DPswfU6-puYYrpf_UHxJyfMdpyc0T4HaQuacq0zBFpAMaJYO&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/course/foundations-of-front-end-development/?srsltid=AfmBOorodHLLl-Ayl5kGaYpoYbL30t1gTWczAjcPMAUKaVb_YHEMg-De&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/modern-web-development-from-zero-to-advanced/?srsltid=AfmBOoqlUSTR_WPyWRyaIs7AGIuxJ0uSfBRbFfZd0xbX7yhnOFfAVUeH&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.udemy.com/course/the-advanced-web-developer-bootcamp/",
+                            "https://www.udemy.com/course/advanced-web-developer-course-beginner-to-advanced/?srsltid=AfmBOopsZUgI7i8PB2tXiF__Lhd8g8EoKQB_Lrl2wudi8R3_6J8El3wj&utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://unacademy.com/goal/programming/DOKOV/free-platform/web-development/NNFSK?utm_source=chatgpt.com",
+                            "https://unacademy.com/goal/programming/DOKOV/free-platform/web-development/NNFSK?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://unacademy.com/class/angular-basics/H9WF5YYQ?utm_source=chatgpt.com",
+                            "https://unacademy.com/course/front-end-development-css/GORH84LT?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://unacademy.com/course/beginners-guide-to-bootstrap/UTMYAH5U?utm_source=chatgpt.com",
+                            "https://unacademy.com/course/design-a-registration-form-using-php-and-mysql/DRM13VEZ?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/courses?query=front-end+web+development&utm_source=chatgpt.com",
+                            "https://www.coursera.org/learn/introduction-to-front-end-development"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/learn/intermediate-web-and-front-end-development?utm_source=chatgpt.com",
+                            "https://www.coursera.org/specializations/frontend?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.coursera.org/learn/packt-advanced-frontend-development-and-deployment-l9mi4?utm_source=chatgpt.com",
+                            "https://www.coursera.org/professional-certificates/ibm-frontend-developer?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "pw_skills",
+                    "courses": {
+                        "beginner": [
+                            "https://pwskills.com/blog/front-end-developer-course/?utm_source=chatgpt.com",
+                            "https://pwskills.com/blog/web-development-beginners-guide/"
+                        ],
+                        "intermediate": [
+                            "https://pwskills.com/blog/frontend-developer-roadmap-2025/?utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/the-ultimate-front-end-web-development-course/?srsltid=AfmBOoquIkUb4ADb08DZKkzyzyGyNnPXgVy0_bRgjwK7rYahSPsu1gLe&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://pwskills.com/blog/front-end-developer-course/?utm_source=chatgpt.com"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "backend_development",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/course/django-python/?srsltid=AfmBOooN1SkjKGvPtLADnD49EPeguX91Ou8tPK89cWqVWtfnVcW2t8Bx&utm_source=chatgpt.com",
+                            "https://www.udemy.com/topic/back-end-web-development/?srsltid=AfmBOooacikwUmUM15wi8ogEgO9xoKvnQsha6YxdKqm_04SuVoA64d92&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/course/rust-backend-development-intermediate-to-advanced-2024/?srsltid=AfmBOoqhb21m1ofsBZaeJhqQF8yY65xyCR1kCo3RGLEiHlrJXgJI1ULe&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/learn-nodejs-docker-mongodb-express-setup/?srsltid=AfmBOoqSx-nlkeNEpnBd5zVqGIgUtGBMZfjaGCM97K25pGZ6y0126HFL&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.udemy.com/course/django-python-advanced/?couponCode=LEARNNOWPLANS"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://unacademy.com/course/java-programming-for-beginner-and-intermediate-level/7IAQW4F8?utm_source=chatgpt.com",
+                            "https://unacademy.com/course/hindi-nodejs/UQ3F9L0R?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://unacademy.com/goal/intermediate/VNNKU/topic/VVEJN/courses?utm_source=chatgpt.com",
+                            "https://unacademy.com/goal/intermediate/VNNKU/topic/VVEJN/courses?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://unacademy.com/course/course-on-backend-web-development/R5OGTXD5"
+                        ]
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/learn/introduction-to-back-end-development",
+                            "https://www.coursera.org/learn/foundations-of-coding-back-end?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/learn/intermediate-back-end-development-with-node-js-mongodb?utm_source=chatgpt.com",
+                            "https://www.coursera.org/programs/4iir-tanger-g4-3h33j/learn/packt-backend-development-and-api-creation-w2u4y?specialization=packt-mern-stack-front-to-back-full-stack-react-redux-and-node-js&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.coursera.org/professional-certificates/meta-back-end-developer",
+                            "https://www.coursera.org/professional-certificates/ibm-backend-development?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "pw_skills",
+                    "courses": {
+                        "beginner": [
+                            "https://pwskills.com/blog/pw-free-backend-development-course-2024/?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://unacademy.com/batch/backend-development-from-fundamentals-to-career-readiness/VIJ6TNB5?utm_source=chatgpt.com",
+                            "https://pwskills.com/course/full-stack-web-development-course/"
+                        ],
+                        "advanced": [
+                            "https://pwskills.com/course/full-stack-web-development-course/"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "cyber_security",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://pwskills.com/course/full-stack-web-development-course/",
+                            "https://www.udemy.com/course/the-absolute-beginners-guide-to-information-cyber-security/?srsltid=AfmBOoq6ChZQM5dScSzw8IehvKm_KXPi1c6KWwLmcGiKTFoLstM_f27v&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/course/the-cyber-security-series-intermediate-cyber-security/?srsltid=AfmBOornfWiFUKXuEc0HEdqm9KqEy2q1vlWOnwNXWSB7ona--BXXfARY&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/cyber-security-intermediate-linux-commands/?srsltid=AfmBOorBjvP5igeHH5wK2lMXXX0tXQ_A-oohZKBKRfxJshPIGKpPUOEg&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.udemy.com/course/mastering-cyber-security-advanced-vapt-and-beyond/?couponCode=LEARNNOWPLANS",
+                            "https://www.udemy.com/course/advanced-cybersecurity-and-ethical-hacking-with-chatgpt/?srsltid=AfmBOorOGC4NFOrCAE7XK6cSoq8peT1dZCMFEft1eSZjVGEr8-1_TFt6&utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://unacademy.com/course/beginner-cyber-security/S32UL92M?utm_source=chatgpt.com",
+                            "https://unacademy.com/lesson/cyber-security-part-1/VBNRBICO?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://unacademy.com/class/session-on-cyber-security/JOS9L95C?utm_source=chatgpt.com",
+                            "https://unacademy.com/course/beginner-cyber-security/S32UL92M"
+                        ],
+                        "advanced": [
+                            "https://unacademy.com/course/cyber-security/16ATXITX?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/learn/foundations-of-cybersecurity",
+                            "https://www.coursera.org/learn/cybersecurity-for-everyone"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/specializations/cisco-cybersecurity?utm_source=chatgpt.com",
+                            "https://www.coursera.org/specializations/intro-cyber-security?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.coursera.org/learn/advanced-cybersecurity-techniques?utm_source=chatgpt.com",
+                            "https://www.coursera.org/learn/advanced-cybersecurity-topics?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "pw_skills",
+                    "courses": {
+                        "beginner": [
+                            "https://pwskills.com/?utm_source=chatgpt.com",
+                            "https://pwskills.com/blog/cyber-security-books/?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://pwskills.com/course/certified-payment-security-professional-program/?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://pwskills.com/?utm_source=chatgpt.com"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "data_science",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/topic/data-science/?srsltid=AfmBOopimVeacpQ1RcNchLkLutyImlg-jIzEs8xeUcKBS6P41PQl9rQ_&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/full-stack-data-science-machine-learning-bootcamp-course/?srsltid=AfmBOoripJ7u1PSIkhXT5Sk-RIC_inNQAwwgVLLhTvQ-h-llRyMpmLa2&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/course/full-stack-data-science-machine-learning-bootcamp-course/?couponCode=LEARNNOWPLANS",
+                            "https://www.udemy.com/course/data-science-mastery-complete-data-science-bootcamp-2025/?srsltid=AfmBOooJ0TvYCRCG8YpgQhlL6F7p1bpLdM5OZyFvd5dLMwwluH0--GjI&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.udemy.com/course/data-science-mastery-complete-data-science-bootcamp-2025/",
+                            "https://www.udemy.com/course/master-advanced-data-science-data-scientist-aiml-experts-tm/?srsltid=AfmBOoqXUOa73zYlL4YES5qCw_AK4uKeTSOo5x6syY2K-FMt__vl-cnp&utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://unacademy.com/batch-group/Comprehensive%20Data%20Structures%20%26%20Algorithms/6UWLWDZ3?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [],
+                        "advanced": []
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/professional-certificates/ibm-data-science",
+                            "https://www.coursera.org/learn/python-for-applied-data-science-ai?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/learn/python-for-applied-data-science-ai",
+                            "https://www.coursera.org/professional-certificates/ibm-data-science"
+                        ],
+                        "advanced": []
+                    }
+                },
+                {
+                    "platform": "pw_skills",
+                    "courses": {
+                        "beginner": [
+                            "https://pwskills.com/course/data-science-course/",
+                            "https://pwskills.com/blog/7-best-data-analysis-courses-for-beginners/?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://pwskills.com/course/data-science-course/",
+                            "https://pwskills.com/course/data-science-course/"
+                        ],
+                        "advanced": [
+                            "https://pwskills.com/course/data-science-course/"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "python_ai_ml",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/course/artificial-intelligence-for-beginners-ai-basics/?srsltid=AfmBOoqvXaGotPfuPa5Gnz5XWKQeH1nhL2_LGu8ZwaMlgZdh4L0EtyZv&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/python-for-machine-learning-beginners/?srsltid=AfmBOorDAAFqwy3rIPkHX8IWgK9M7V_OP3dT-abcEZn5OmM-cmPkPY9P&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/course/machinelearning/?srsltid=AfmBOoqQJtr7wBycfYihz4eey6M3XSEg3DMT1DXiTExIWvhvUHZY1fiV&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/machinelearning/?srsltid=AfmBOoqQJtr7wBycfYihz4eey6M3XSEg3DMT1DXiTExIWvhvUHZY1fiV&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.udemy.com/course/deep-reinforcement-learning-in-python/",
+                            "https://www.udemy.com/course/master-python-generative-ai-for-advanced-analytics/?srsltid=AfmBOor0bNw1AN-aaLHK0MtbeW9pponqKNVNhCsO-g7HMK8Lf12EHb6s&utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/course/artificial-intelligence-for-beginners-ai-basics/?srsltid=AfmBOoqvXaGotPfuPa5Gnz5XWKQeH1nhL2_LGu8ZwaMlgZdh4L0EtyZv&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/python-for-machine-learning-beginners/?srsltid=AfmBOorDAAFqwy3rIPkHX8IWgK9M7V_OP3dT-abcEZn5OmM-cmPkPY9P&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://unacademy.com/batch/python-complete-course-from-beginner-to-advance/X7NI7D8B/topics/SSAML/courses/XJSJX"
+                        ],
+                        "advanced": [
+                            "https://unacademy.com/batch/python-complete-course-from-beginner-to-advance/X7NI7D8B/topics/SSAML/courses/XJSJX?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/learn/ai-python-for-beginners?utm_source=chatgpt.com",
+                            "https://www.coursera.org/learn/python-for-applied-data-science-ai"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/courses?query=python+machine+learning&utm_source=chatgpt.com",
+                            "https://www.coursera.org/specializations/ai-machinelearning-essentials?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.coursera.org/learn/machine-learning-with-python?utm_source=chatgpt.com",
+                            "https://www.coursera.org/specializations/ai-machinelearning-essentials?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "pw_skills",
+                    "courses": {
+                        "beginner": [
+                            "https://pwskills.com/course/data-science-course/",
+                            "https://pwskills.com/blog/ai-programming-with-python/"
+                        ],
+                        "intermediate": [
+                            "https://pwskills.com/blog/ai-programming-with-python/"
+                        ],
+                        "advanced": [
+                            "https://pwskills.com/blog/ai-programming-with-python/?utm_source=chatgpt.com",
+                            "https://pwskills.com/course/professional-certificate-program-in-artificial-intelligence-and-machine-learning/?utm_source=chatgpt.com"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "devops",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/course/devops-bootcamp-for-beginners/?srsltid=AfmBOoq0TBOwzO-CmI0kD_t0aNvQCDCTR0cvIOWj_vH09d9Cf2GelmHl&utm_source=chatgpt.com",
+                            "https://www.udemy.com/topic/aws-devops/?srsltid=AfmBOopbMZ2PoI9xPKB0BmPCcZavNtcetflCfGpmWURVY_IPgAK9fXXN&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/topic/aws-devops/?srsltid=AfmBOooPKU1n2ryDUZnrnv_zLKlRy5YVigjO4TmvTVjZ7SFme0FzW_HX&utm_source=chatgpt.com",
+                            "https://www.udemy.com/topic/microsoft-azure-devops/?srsltid=AfmBOooliIrQIv0I9BKyiYdncRP5kT3u1Oypi72esLHWQyvAgJdzEMNU&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.udemy.com/course/devops-advanced-course-from-theory-to-practice/?couponCode=LEARNNOWPLANS"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://unacademy.com/web-sitemap/free-courses/free-courses-11.xml?utm_source=chatgpt.com",
+                            "https://pwskills.com/blog/devops-certification-list-2025/?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [],
+                        "advanced": [
+                            "https://unacademy.com/course/advanced-devops-techniques/FFKEL9P7"
+                        ]
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/learn/intro-to-devops?utm_source=chatgpt.com",
+                            "https://www.coursera.org/learn/uva-darden-continous-delivery-devops?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/professional-certificates/devops-and-software-engineering?utm_source=chatgpt.com",
+                            "https://www.coursera.org/specializations/packt-devops-complete-course?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.coursera.org/learn/packt-advanced-devops-tools-and-practices-tgusu?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "pw_skills",
+                    "courses": {
+                        "beginner": [
+                            "https://pwskills.com/course/devops-and-cloud-computing-course/?utm_source=chatgpt.com",
+                            "https://pwskills.com/blog/devops-free-course/"
+                        ],
+                        "intermediate": [
+                            "https://pwskills.com/course/devops-and-cloud-computing-course/?utm_source=chatgpt.com",
+                            "https://pwskills.com/blog/devops-course-syllabus/?utm_source=chatgpt.com"
+                        ],
+                        "advanced": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "android_app_development",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/course/android-app-development-for-beginner/?srsltid=AfmBOoqkNMsYNy79ticpgmELXJsTpRm52-5BpCpIq8ROGJsEedTXJlLX&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/learn-android-application-development-y/?srsltid=AfmBOorZQQ5lyF6rba6POTVZbY9SsWTscdaSbVRv6D7GyzZ1N7ShCPUD&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/course/android-app-development-with-kotlin-intermediate-android/?couponCode=LEARNNOWPLANS",
+                            "https://www.udemy.com/course/android-intermediate-android-masterclass/?srsltid=AfmBOorjtS-tvPFs4_HiG-9k_0hiVbBalwlBa_38Tj2aJSDmBy9t5qbV&utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.udemy.com/course/advanced-android-development/?srsltid=AfmBOorbsRaY3KwZ3hpMTW9tN4-MPd4PwXXfR6fPbkI1ftdP8anf1Jen&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/advanced-android-development/?srsltid=AfmBOorbsRaY3KwZ3hpMTW9tN4-MPd4PwXXfR6fPbkI1ftdP8anf1Jen&utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://unacademy.com/course/android-development-for-beginners-part-1/7P93CFNH?utm_source=chatgpt.com",
+                            "https://unacademy.com/course/workshop-on-android-app-development/PJX7X6U8?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://unacademy.com/course/mobile-application-development/OSPG8RMA?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://unacademy.com/batch/app-development-complete-journey-from-beginner-to-advanced-level/2DNFTKYD?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/learn/introduction-to-android-mobile-application-development?utm_source=chatgpt.com",
+                            "https://www.coursera.org/learn/android-app?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/specializations/android-app-development?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.coursera.org/specializations/advanced-app-android?utm_source=chatgpt.com",
+                            "https://www.coursera.org/learn/advanced-programming-in-kotlin?utm_source=chatgpt.com"
+                        ]
+                    }
+                },
+                {
+                    "platform": "pw_skills",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/learn/introduction-to-android-mobile-application-development?utm_source=chatgpt.com",
+                            "https://www.coursera.org/learn/android-app?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [],
+                        "advanced": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ios_app_development",
+            "platforms": [
+                {
+                    "platform": "udemy",
+                    "courses": {
+                        "beginner": [
+                            "https://www.udemy.com/course/ios-13-app-development-bootcamp/?srsltid=AfmBOor0kOGhm_M4Hn0W5nbp8Mbnq9-R461pXnwtxnwST5aOgsx8nlNv&utm_source=chatgpt.com",
+                            "https://www.udemy.com/course/ios-app-development-for-beginners/?srsltid=AfmBOorEt9uEYuZndilWMWjowqAYKN9FucZeyODkJFJHpcOgquPjwHCX&utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.udemy.com/course/intermediate-ios-11-complex-and-advanced-iphone-apps/",
+                            "https://www.udemy.com/course/intermediate-ios/"
+                        ],
+                        "advanced": [
+                            "https://unacademy.com/course/mobile-application-development/OSPG8RMA"
+                        ]
+                    }
+                },
+                {
+                    "platform": "unacademy",
+                    "courses": {
+                        "beginner": [
+                            "https://unacademy.com/course/ios-for-beginners/2TK7HNL0?utm_source=chatgpt.com",
+                            "https://unacademy.com/batch/app-development-complete-journey-from-beginner-to-advanced-level/2DNFTKYD?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://unacademy.com/batch/app-development-complete-journey-from-beginner-to-advanced-level/2DNFTKYD",
+                            "https://unacademy.com/course/mobile-application-development/OSPG8RMA"
+                        ],
+                        "advanced": [
+                            "https://unacademy.com/batch/app-development-complete-journey-from-beginner-to-advanced-level/2DNFTKYD"
+                        ]
+                    }
+                },
+                {
+                    "platform": "coursera",
+                    "courses": {
+                        "beginner": [
+                            "https://www.coursera.org/learn/introduction-to-ios-mobile-application-development?utm_source=chatgpt.com",
+                            "https://www.coursera.org/specializations/app-development?utm_source=chatgpt.com"
+                        ],
+                        "intermediate": [
+                            "https://www.coursera.org/specializations/app-development?utm_source=chatgpt.com",
+                            "https://www.coursera.org/professional-certificates/meta-ios-developer?utm_source=chatgpt.com"
+                        ],
+                        "advanced": [
+                            "https://www.coursera.org/learn/advanced-programming-in-swift?utm_source=chatgpt.com"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
