@@ -1,9 +1,31 @@
 services:
   - type: web
     name: getskilled-frontend
-    env: node
+    env: static
+    plan: free
     buildCommand: npm install && npm run build
-    startCommand: npm start
+    staticPublishPath: ./dist
     envVars:
       - key: NODE_ENV
-        value: production 
+        value: production
+      - key: VITE_API_URL
+        value: https://getskilled-backend.onrender.com
+      - key: VITE_APP_NAME
+        value: GetSkilled
+    headers:
+      - path: /*
+        name: X-Frame-Options
+        value: DENY
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    autoDeploy: true
+    branch: main
+    rootDir: getskilled-main
