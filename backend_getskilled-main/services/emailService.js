@@ -11,7 +11,15 @@ class EmailService {
             },
             tls: {
                 rejectUnauthorized: false
-            }
+            },
+            connectionTimeout: 60000, // 60 seconds
+            greetingTimeout: 30000,   // 30 seconds
+            socketTimeout: 60000,     // 60 seconds
+            pool: true,
+            maxConnections: 5,
+            maxMessages: 100,
+            rateDelta: 20000,
+            rateLimit: 5
         };
 
         this.transporter = nodemailer.createTransport(emailConfig);
@@ -31,13 +39,45 @@ class EmailService {
             html: html
         };
 
-        try {
-            const result = await this.transporter.sendMail(mailOptions);
-            console.log('Email sent successfully:', result.messageId);
-            return { success: true, messageId: result.messageId };
-        } catch (error) {
-            console.error('Email sending failed:', error);
-            throw new Error('Failed to send email: ' + error.message);
+        // Retry mechanism
+        const maxRetries = 3;
+        let lastError;
+
+        for (let attempt = 1; attempt <= maxRetries; attempt++) {
+            try {
+                console.log(`Email sending attempt ${attempt}/${maxRetries}`);
+                
+                // Test connection first
+                await this.transporter.verify();
+                
+                const result = await this.transporter.sendMail(mailOptions);
+                console.log('Email sent successfully:', result.messageId);
+                return { success: true, messageId: result.messageId };
+            } catch (error) {
+                lastError = error;
+                console.error(`Email sending attempt ${attempt} failed:`, error.message);
+                
+                if (attempt < maxRetries) {
+                    // Wait before retry (exponential backoff)
+                    const delay = Math.pow(2, attempt) * 1000;
+                    console.log(`Retrying in ${delay}ms...`);
+                    await new Promise(resolve => setTimeout(resolve, delay));
+                }
+            }
+        }
+
+        // All retries failed
+        console.error('All email sending attempts failed:', lastError);
+        
+        // Handle specific error types
+        if (lastError.code === 'ECONNECTION' || lastError.code === 'ETIMEDOUT') {
+            throw new Error('Connection timeout. Please check your internet connection and try again.');
+        } else if (lastError.code === 'EAUTH') {
+            throw new Error('Authentication failed. Please check email credentials.');
+        } else if (lastError.code === 'EMESSAGE') {
+            throw new Error('Message sending failed. Please try again.');
+        } else {
+            throw new Error('Failed to send email after multiple attempts: ' + lastError.message);
         }
     }
 

@@ -141,7 +141,7 @@ async function checkAuth() {
     try {
         console.log('Verifying token with backend...');
         // Verify token with Render backend
-        const response = await fetch('https://backend-getskilled.onrender.com/api/auth/verify-token', {
+        const response = await fetch('https://getskilled-main-backend.onrender.com/api/auth/verify-token', {
             headers: {
                 'Authorization': `Bearer ${token}`
             }

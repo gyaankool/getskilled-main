@@ -14,6 +14,14 @@ export default defineConfig({
       '.onrender.com',
       '.render.com'
     ],
+    hmr: {
+      port: 5173,
+      host: 'localhost'
+    },
+    watch: {
+      usePolling: true,
+      interval: 1000
+    }
   },
   preview: {
     host: '0.0.0.0',
