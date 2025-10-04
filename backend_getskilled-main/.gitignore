@@ -1,0 +1,56 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask instance folder (if you use one)
+instance/
+
+# Environment & secrets
+.env
+*.env
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.envvenv/
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Logs
+*.log
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if you ever add them)
+node_modules/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional lock file (if you want it committed, remove this)
+package-lock.json
+yarn.lock
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Test / build output
+.pytest_cache/
