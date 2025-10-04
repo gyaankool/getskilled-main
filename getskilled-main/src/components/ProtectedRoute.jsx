@@ -20,7 +20,7 @@ const ProtectedRoute = ({ children }) => {
     }
 
     try {
-      const response = await fetch('http://localhost:5001/api/auth/verify-token', {
+      const response = await fetch('https://getskilled-main-backend.onrender.com/api/auth/verify-token', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
